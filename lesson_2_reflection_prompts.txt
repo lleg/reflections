@@ -1,5 +1,9 @@
 How did viewing a diff between two versions of a file help you see the bug that
+<<<<<<< HEAD
 was introduced?222222
+=======
+was introduced?11111111111111111
+>>>>>>> TestBr
 
       Fill in your answer here
 
